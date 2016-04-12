@@ -1,2 +1,2 @@
 # com533
-This is our com533 repository
+This is our first git commit
